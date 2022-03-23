@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	-webkit-tap-highlight-color: transparent;
+	font-family: 'Rubik Light', serif;
+}
+
+.gm-1 {
+	background: rgba(255, 255, 255, 0.25);
+	box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+	backdrop-filter: blur(4px);
+	-webkit-backdrop-filter: blur(4px);
+	border-radius: 10px;
+	border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+@font-face {
+	font-family: 'Rubik Light';
+	src: url('/fonts/Rubik-Light.woff2');
+}
+
+@font-face {
+	font-family: 'Rubik Regular';
+	src: url('/fonts/Rubik-Regular.woff2');
+}
+
+.bold {
+	font-family: 'Rubik Regular', serif;
+}

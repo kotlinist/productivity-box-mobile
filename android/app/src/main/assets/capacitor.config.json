@@ -1,0 +1,8 @@
+{
+	"appId": "ru.kotlinist.productivity.box",
+	"appName": "ProductivityBox",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"loggingBehavior": "debug",
+	"android": "allowMixedContent"
+}

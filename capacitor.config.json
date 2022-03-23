@@ -1,0 +1,12 @@
+{
+	"appId": "ru.kotlinist.productivity.box",
+	"appName": "ProductivityBox",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"loggingBehavior": "debug",
+	"server": {
+		"url": "http://192.168.1.75:3000",
+		"cleartext": true
+	},
+	"android": "allowMixedContent"
+}

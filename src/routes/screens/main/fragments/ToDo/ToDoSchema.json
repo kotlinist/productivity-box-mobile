@@ -1,0 +1,14 @@
+{
+    "todoLists": {
+        "byDate": [
+            {"title": "27.02.2022", "type": "day", "tasks": []},
+            {"title": "28.02.2022-06.03.2022", "type": "week", "tasks": []},
+            {"title": "02.2022", "type": "month", "tasks": []},
+            {"title": "2022", "type": "year", "tasks": []}
+        ],
+        "custom": [
+            {"title": "Frontend", "tasks": [], "color": "#7692FF", "project": "ProductivityBox"},
+            {"title": "🎓 Math", "tasks": []}
+        ]
+    }
+}
